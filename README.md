@@ -18,5 +18,7 @@
 <img alt="python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
+Desenvolvedor apaixonado por tecnologia, especializado em criar soluções eficientes. Com experiência em diversas linguagens, busco otimizar processos, resolver problemas e transformar ideias em produtos reais. Sempre em busca de novos desafios e oportunidades para aprender e evoluir.
+
 ## Meu contato
 - [Gmail - ricardohenrique9123@gmail.com]()
